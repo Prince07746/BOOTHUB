@@ -11,6 +11,8 @@ This project aims to create a collection of fully responsive, reusable UI compon
 
 ![image](https://github.com/user-attachments/assets/afb37b2d-bbc7-43ab-b383-349b4f442b1b)
 
+![image](https://github.com/user-attachments/assets/0f230563-6b5c-443c-8ea6-965bdab1ccb7)
+
 
 ### Project Documentation: Responsive UI Components Repository
 
